@@ -1,4 +1,4 @@
-# Jennifer Baber's CV
+# Jenn Baber's CV
 
 - Phone: +1 972 742 1453
 - Email: [jennifer.baber@outlook.com](mailto:jennifer.baber@outlook.com)

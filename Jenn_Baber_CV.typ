@@ -3,8 +3,8 @@
 
 // Apply the rendercv template with custom configuration
 #show: rendercv.with(
-  name: "Jennifer Baber",
-  footer: context { [#emph[Jennifer Baber -- #str(here().page())\/#str(counter(page).final().first())]] },
+  name: "Jenn Baber",
+  footer: context { [#emph[Jenn Baber -- #str(here().page())\/#str(counter(page).final().first())]] },
   top-note: [ #emph[Last updated Jan 2026] ],
   locale-catalog-language: "en",
   page-size: "us-letter",
@@ -83,7 +83,7 @@
 )
 
 
-= Jennifer Baber
+= Jenn Baber
 
   #headline([Lead Data Engineer | Cloud Data Architect | AI-Powered Data Platform Enthusiast])
 

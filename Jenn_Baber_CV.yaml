@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
 cv:
-  name: Jennifer Baber
+  name: Jenn Baber
   headline: Lead Data Engineer | Cloud Data Architect | AI-Powered Data Platform Enthusiast
   location: Richardson, TX
   email: jennifer.baber@outlook.com

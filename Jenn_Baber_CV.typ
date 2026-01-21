@@ -114,6 +114,38 @@
 
 #strong[Domain Expertise:] nonprofit fundraising, CRM systems, donor analytics, nonprofit analytics, predictive customer behavior modeling, marketing analytics, financial services, financial modeling, risk analysis
 
+== Education
+
+#education-entry(
+  [
+    #strong[University of Texas at Dallas, BS in Applied Mathematics] -- Dallas, TX
+
+  ],
+  [
+    June 2014 – Dec 2016
+
+  ],
+  main-column-second-row: [
+    - Minor in Philosophy
+
+  ],
+)
+
+#education-entry(
+  [
+    #strong[Collin College, AS in General Science] -- Plano, TX
+
+  ],
+  [
+    Jan 2013 – May 2014
+
+  ],
+  main-column-second-row: [
+    - Graduated Summa Cum Laude
+
+  ],
+)
+
 == Experience
 
 #regular-entry(
@@ -283,38 +315,6 @@
 - Summa Cum Laude, Collin College (2014)
 
 - SOA Exam P\/ CAS Exam 1 (2020)
-
-== Education
-
-#education-entry(
-  [
-    #strong[University of Texas at Dallas, BS in Applied Mathematics] -- Dallas, TX
-
-  ],
-  [
-    June 2014 – Dec 2016
-
-  ],
-  main-column-second-row: [
-    - Minor in Philosophy
-
-  ],
-)
-
-#education-entry(
-  [
-    #strong[Collin College, AS in General Science] -- Plano, TX
-
-  ],
-  [
-    Jan 2013 – May 2014
-
-  ],
-  main-column-second-row: [
-    - Graduated Summa Cum Laude
-
-  ],
-)
 
 == Publications
 

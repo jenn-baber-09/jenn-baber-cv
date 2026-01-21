@@ -31,6 +31,28 @@ cv:
       - label: Domain Expertise
         details: nonprofit fundraising, CRM systems, donor analytics, nonprofit analytics, predictive customer behavior modeling, marketing analytics, financial services, financial modeling, risk analysis
 
+    education:
+      - institution: University of Texas at Dallas
+        area: Applied Mathematics
+        degree: BS
+        date:
+        start_date: 2014-06
+        end_date: 2016-12
+        location: Dallas, TX
+        summary:
+        highlights:
+          - Minor in Philosophy
+      - institution: Collin College
+        area: General Science
+        degree: AS
+        date:
+        start_date: 2013-01
+        end_date: 2014-05
+        location: Plano, TX
+        summary:
+        highlights:
+          - Graduated Summa Cum Laude
+
     experience:
       - company: Virtuous Software
         position: Lead Data Engineer
@@ -130,28 +152,6 @@ cv:
     selected_honors:
       - bullet: Summa Cum Laude, Collin College (2014)
       - bullet: SOA Exam P/ CAS Exam 1 (2020)
-
-    education:
-      - institution: University of Texas at Dallas
-        area: Applied Mathematics
-        degree: BS
-        date:
-        start_date: 2014-06
-        end_date: 2016-12
-        location: Dallas, TX
-        summary:
-        highlights:
-          - Minor in Philosophy
-      - institution: Collin College
-        area: General Science
-        degree: AS
-        date:
-        start_date: 2013-01
-        end_date: 2014-05
-        location: Plano, TX
-        summary:
-        highlights:
-          - Graduated Summa Cum Laude
 
     publications:
       - title: "Data Health Tips"

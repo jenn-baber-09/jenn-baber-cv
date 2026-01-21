@@ -23,6 +23,19 @@
 
 **Domain Expertise:** nonprofit fundraising, CRM systems, donor analytics, nonprofit analytics, predictive customer behavior modeling, marketing analytics, financial services, financial modeling, risk analysis
 
+# Education
+## **University of Texas at Dallas, BS in Applied Mathematics** -- Dallas, TXJune 2014 – Dec 2016
+
+- Minor in Philosophy
+
+
+
+## **Collin College, AS in General Science** -- Plano, TXJan 2013 – May 2014
+
+- Graduated Summa Cum Laude
+
+
+
 # Experience
 ## **Lead Data Engineer, Virtuous Software** -- Phoenix, AZ (Remote)
 
@@ -172,19 +185,6 @@ Began career supporting analytics and reporting efforts while rapidly expanding 
 - Summa Cum Laude, Collin College (2014)
 
 - SOA Exam P/ CAS Exam 1 (2020)
-
-# Education
-## **University of Texas at Dallas, BS in Applied Mathematics** -- Dallas, TXJune 2014 – Dec 2016
-
-- Minor in Philosophy
-
-
-
-## **Collin College, AS in General Science** -- Plano, TXJan 2013 – May 2014
-
-- Graduated Summa Cum Laude
-
-
 
 # Publications
 ## **Data Health Tips**

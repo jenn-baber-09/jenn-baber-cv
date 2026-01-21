@@ -328,7 +328,7 @@ settings:
     locale:
     typst_path: .\NAME_IN_SNAKE_CASE_CV.typ
     pdf_path: .\NAME_IN_SNAKE_CASE_CV.pdf
-    markdown_path: .\NAME_IN_SNAKE_CASE_CV.md
+    markdown_path: README.md
     html_path: .\NAME_IN_SNAKE_CASE_CV.html
     png_path: .\NAME_IN_SNAKE_CASE_CV.png
     dont_generate_markdown: false

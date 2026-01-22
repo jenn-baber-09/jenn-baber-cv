@@ -64,7 +64,7 @@ cv:
           platform, owning end-to-end pipelines that powered analytics, reporting,
           and ML/AI initiatives for new data products.
         highlights:
-          - "Built three production AI systems including automated dbt documentation agent handling schema drift reducing manual engineering maintenance of documentation and tests, intelligent bug triage chatbot reducing incident response time 50%, and Snowflake Intelligence NLQ interface democratizing analytics access company-wide and cutting analyst workload 35%"
+          - "Built three production-grade AI systems including automated dbt documentation agent handling schema drift reducing manual engineering maintenance of documentation and tests, intelligent bug triage chatbot reducing incident response time 50%, and Snowflake Intelligence NLQ interface democratizing analytics access company-wide and cutting analyst workload 35%"
           - "Consolidated ingestion architecture from 200+ individual models to unified framework-- improving scalability 300% while reducing infrastructure costs 45% and establishing 99% reliability across all downstream systems"
           - "Raised test coverage from 5% to 95% across customer-facing assets, achieving near-zero production escapes, establishing new engineering quality baseline, and raised ERD documentation coverage from 15% to 90% using automated dbt doc generation via Snowflake metadata to expose both internally and externally to customers as an enablement resource"
           - "Partnered with Platform team to remediate critical SQL Server security vulnerabilities, eliminating production hard-delete access, that prevented potential production data loss and provided solutions for architecture improvements in SQL Server for future growth"
@@ -339,7 +339,7 @@ settings:
   bold_keywords: [
     'Lead Data Engineer with a strong mathematics foundation and a product-driven mindset,', 
     'a track record of building production-grade systems that are reliable, cost-efficient, and trusted by stakeholders',
-    'Built three production AI systems',
+    'Built three production-grade AI systems',
     'improving scalability 300% while reducing infrastructure costs 45% and establishing 99% reliability',
     'Raised test coverage from 5% to 95%',
     'raised ERD documentation coverage from 15% to 90%',

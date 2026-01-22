@@ -162,7 +162,7 @@
 
   ],
   main-column-second-row: [
-    - #strong[Built three production AI systems] including automated dbt documentation agent handling schema drift reducing manual engineering maintenance of documentation and tests, intelligent bug triage chatbot reducing incident response time 50\%, and Snowflake Intelligence NLQ interface democratizing analytics access company-wide and cutting analyst workload 35\%
+    - #strong[Built three production-grade AI systems] including automated dbt documentation agent handling schema drift reducing manual engineering maintenance of documentation and tests, intelligent bug triage chatbot reducing incident response time 50\%, and Snowflake Intelligence NLQ interface democratizing analytics access company-wide and cutting analyst workload 35\%
 
     - Consolidated ingestion architecture from 200+ individual models to unified framework-- #strong[improving scalability 300\% while reducing infrastructure costs 45\% and establishing 99\% reliability] across all downstream systems
 
